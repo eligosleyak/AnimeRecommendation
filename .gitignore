@@ -12,6 +12,4 @@ node_modules
 # Tailwind CSS configuration
 tailwind.config.js
 
-# JavaScript dependencies
-package.json
-package-lock.json
+
